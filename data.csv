@@ -1,0 +1,237 @@
+ECONOMIC SECTOR,BUSINESS SECTOR,INDUSTRY GROUP,INDUSTRY,PermID,TRBC 2012 Hierarchical ID
+Energy,,,,4294952782,50
+,Energy - Fossil Fuels,,,4294952999,5010
+,,Coal,,4294952998,501010
+,,,Coal,4294952997,50101010
+,,Oil & Gas,,4294952996,501020
+,,,Integrated Oil & Gas,4294952995,50102010
+,,,Oil & Gas Exploration and Production,4294952994,50102020
+,,,Oil & Gas Refining and Marketing,4294952993,50102030
+,,Oil & Gas Related Equipment and Services,,4294952992,501030
+,,,Oil & Gas Drilling,4294952991,50103010
+,,,Oil Related Services and Equipment,4294952990,50103020
+,,,Oil & Gas Transportation Services,4294952811,50103030
+,Renewable Energy,,,4294952781,5020
+,,Renewable Energy,,4294952810,502010
+,,,Renewable Energy Equipment & Services,4294952809,50201010
+,,,Renewable Fuels,4294952808,50201020
+,Uranium,,,4294952777,5030
+,,Uranium,,4294952776,503010
+,,,Uranium,4294952775,50301010
+Basic Materials,,,,4294952774,51
+,Chemicals,,,4294952988,5110
+,,Chemicals,,4294952987,511010
+,,,Chemicals - Commodity,4294952986,51101010
+,,,Agricultural Chemicals,4294952985,51101020
+,,,Specialty Chemicals,4294952984,51101030
+,,,Diversified Chemicals,4294952983,51101090
+,Mineral Resources,,,4294952773,5120
+,,Metals & Mining,,4294952772,512010
+,,,Precious Metals & Minerals,4294952771,51201010
+,,,Steel,4294952979,51201020
+,,,Aluminum,4294952978,51201030
+,,,Specialty Mining & Metals,4294952977,51201050
+,,,Gold,4294952770,51201060
+,,,Mining Support Services & Equipment,4294952769,51201070
+,,,Diversified Mining,4294952768,51201080
+,,Construction Materials,,4294952976,512020
+,,,Construction Materials,4294952975,51202010
+,Applied Resources,,,4294952974,5130
+,,Paper & Forest Products,,4294952973,513010
+,,,Forest & Wood Products,4294952972,51301010
+,,,Paper Products,4294952971,51301020
+,,Containers & Packaging,,4294952970,513020
+,,,Non-Paper Containers & Packaging,4294952969,51302010
+,,,Paper Packaging,4294952968,51302020
+Industrials,,,,4294952767,52
+,Industrial Goods,,,4294952766,5210
+,,Aerospace & Defense,,4294952965,521010
+,,,Aerospace / Defense,4294952964,52101010
+,,"Machinery, Tools, Heavy Vehicles, Trains & Ships",,4294952765,521020
+,,,Industrial Machinery & Equipment,4294952962,52102010
+,,,Heavy Machinery & Vehicles,4294952961,52102020
+,,,Electrical Components & Equipment,4294952764,52102030
+,,,Heavy Electrical Equipment,4294952959,52102040
+,,,Shipbuilding,4294952763,52102050
+,Industrial & Commercial Services,,,4294952762,5220
+,,Construction & Engineering,,4294952761,522010
+,,,Construction & Engineering,4294952760,52201020
+,,Diversified Industrial Goods Wholesalers,,4294952954,522020
+,,,Diversified Trading & Distributing,4294952953,52202010
+,,,Electrical Components & Equipment,4294952764,52102030
+,,,Heavy Electrical Equipment,4294952959,52102040
+,,,Shipbuilding,4294952763,52102050
+,Industrial & Commercial Services,,,4294952762,5220
+,,Construction & Engineering,,4294952761,522010
+,,,Construction & Engineering,4294952760,52201020
+,,Diversified Industrial Goods Wholesalers,,4294952954,522020
+,,,Diversified Trading & Distributing,4294952953,52202010
+,,Professional & Commercial Services,,4294952759,522030
+,,,Environmental Services & Equipment,4294952951,52203010
+,,,Commercial Printing Services,4294952950,52203020
+,,,Employment Services,4294952807,52203030
+,,,Business Support Services,4294952806,52203040
+,,,Business Support Supplies,4294952805,52203060
+,,,Professional Information Services,4294952758,52203070
+,Industrial Conglomerates,,,4294952948,5230
+,,Industrial Conglomerates,,4294952947,523010
+,,,Industrial Conglomerates,4294952946,52301010
+,Transportation,,,4294952945,5240
+,,Freight & Logistics  Services,,4294952757,524050
+,,,Air Freight & Courier Services,4294952943,52405010
+,,,Marine Freight & Logistics,4294952938,52405020
+,,,Ground Freight & Logistics,4294952934,52405030
+,,Passenger Transportation Services,,4294952753,524060
+,,,Airlines,4294952941,52406010
+,,,"Passenger Transportation, Ground & Sea",4294952935,52406020
+,,Transport Infrastructure,,4294952750,524070
+,,,Airport Services,4294952940,52407010
+,,,Marine Port Services,4294952937,52407020
+,,,Highways & Rail Tracks,4294952933,52407030
+Consumer Cyclicals,,,,4294952746,53
+,Automobiles & Auto Parts,,,4294952931,5310
+,,Automobiles & Auto Parts,,4294952930,531010
+,,,Auto & Truck Manufacturers,4294952929,53101010
+,,,"Auto, Truck & Motorcycle Parts",4294952928,53101020
+,,,Tires & Rubber Products,4294952927,53101030
+,Cyclical Consumer Products,,,4294952745,5320
+,,Textiles & Apparel,,4294952919,532020
+,,,Textiles & Leather Goods,4294952918,53202010
+,,,Apparel & Accessories,4294952917,53202020
+,,,Footwear,4294952916,53202030
+,,Homebuilding & Construction Supplies,,4294952804,532030
+,,,Homebuilding,4294952924,53203010
+,,,Construction Supplies & Fixtures,4294952956,53203020
+,,Household Goods,,4294952744,532040
+,,,"Appliances, Tools & Housewares",4294952922,53204030
+,,,Home Furnishings,4294952921,53204040
+,,Leisure Products,,4294952920,532050
+,,,Toys & Juvenile Products,4294952802,53205010
+,,,Recreational Products,4294952743,53205020
+,Cyclical Consumer Services,,,4294952915,5330
+,,Hotels & Entertainment Services,,4294952914,533010
+,,,"Hotels, Motels & Cruise Lines",4294952913,53301010
+,,,Restaurants & Bars,4294952912,53301020
+,,,Casinos & Gaming,4294952911,53301030
+,,,Leisure & Recreation,4294952910,53301040
+,,Media & Publishing,,4294952742,533020
+,,,Advertising & Marketing,4294952908,53302010
+,,,Broadcasting,4294952907,53302020
+,,,Entertainment Production,4294952906,53302030
+,,,Consumer Publishing,4294952741,53302040
+,Retailers,,,4294952903,5340
+,,Diversified Retail,,4294952800,534020
+,,,Department Stores,4294952901,53402010
+,,,Discount Stores,4294952900,53402020
+,,Specialty Retailers,,4294952799,534030
+,,,"Auto Vehicles, Parts & Service Retailers",4294952798,53403010
+,,,Home Improvement Products & Services Retailers,4294952797,53403020
+,,,Home Furnishings Retailers,4294952796,53403030
+,,,Apparel & Accessories Retailers,4294952898,53403040
+,,,Computer & Electronics Retailers,4294952897,53403050
+,,,SMiscellaneous Specialty Retailers,4294952795,53403090
+Consumer Non-Cyclicals,,,,4294952895,54
+,Food & Beverages,,,4294952894,5410
+,,Beverages,,4294952893,541010
+,,,Beverages - Brewers,4294952892,54101010
+,,,Distillers & Wineries,4294952891,54101020
+,,,Non-Alcoholic Beverages,4294952890,54101030
+,,Food & Tobacco,,4294952889,541020
+,,,Fishing & Farming,4294952888,54102010
+,,,Food Processing,4294952887,54102020
+,,,Tobacco,4294952886,54102030
+,Personal & Household Products & Services,,,4294952885,5420
+,,Personal & Household Products & Services,,4294952884,542010
+,,,Household Products,4294952883,54201010
+,,,Personal Products,4294952882,54201020
+,,,Personal Services,4294952881,54201030
+,Food & Drug Retailing,,,4294952880,5430
+,,Food & Drug Retailing,,4294952879,543010
+,,,Drug Retailers,4294952878,54301010
+,,,Food Retail & Distribution,4294952877,54301020
+Financials,,,,4294952740,55
+,Banking & Investment Services,,,4294952739,5510
+,,Banking Services,,4294952874,551010
+,,,Banks,4294952873,55101010
+,,,Consumer Lending,4294952872,55101030
+,,,Corporate Financial Services,4294952870,55101050
+,,Investment Banking & Investment Services,,4294952738,551020
+,,,Investment Banking & Brokerage Services,4294952794,55102010
+,,,Investment Management & Fund Operators,4294952793,55102020
+,,,Diversified Investment Services,4294952792,55102030
+,,,Financial & Commodity Market Operators,4294952790,55102050
+,Insurance,,,4294952866,5530
+,,Insurance,,4294952865,553010
+,,,Multiline Insurance & Brokers,4294952734,55301010
+,,,Property & Casualty Insurance,4294952863,55301020
+,,,Life & Health Insurance,4294952862,55301030
+,,,Reinsurance,4294952861,55301050
+,Real Estate,,,4294952860,5540
+,,Real Estate Operations,,4294952858,554020
+,,,Real Estate Development & Operations,4294952788,55402010
+,,,Real Estate Services,4294952787,55402020
+,,Residential & Commercial REITs,,4294952857,554030
+,,,Diversified REITs,4294952786,55403010
+,,,Commercial REITs,4294952785,55403020
+,,,Residential REITs,4294952784,55403030
+,,,Specialized REITs,4294952733,55403040
+,Collective Investments,,,4294952732,5550
+,,Collective Investments,,4294952731,555010
+,,,Investment Trusts,4294952730,55501010
+,,,Mutual Funds,4294952729,55501020
+,,,Closed End Funds,4294952728,55501030
+,,,Exchange Traded Funds,4294952727,55501040
+,,,Pension Funds,4294952726,55501050
+,,,Insurance Funds,4294952725,55501060
+,Investment Holding Companies,,,4294952737,5560
+,,Investment Holding Companies,,4294952736,556010
+,,,Holding Companies,4294952735,55601010
+Healthcare,,,,4294952853,56
+,Healthcare Services  & Equipment,,,4294952852,5610
+,,Healthcare Equipment & Supplies,,4294952851,561010
+,,,Advanced Medical Equipment & Technology,4294952850,56101010
+,,,"Medical Equipment, Supplies & Distribution",4294952849,56101020
+,,Healthcare Providers & Services,,4294952848,561020
+,,,Healthcare Facilities & Services,4294952847,56102010
+,,,Managed Healthcare,4294952846,56102020
+,Pharmaceuticals & Medical  Research,,,4294952845,5620
+,,Pharmaceuticals,,4294952844,562010
+,,,Pharmaceuticals,4294952724,56201040
+,,Biotechnology & Medical  Research,,4294952783,562020
+,,,Biotechnology & Medical Research,4294952842,56202010
+Technology,,,,4294952723,57
+,Technology Equipment,,,4294952722,5710
+,,Semiconductors & Semiconductor Equipment,,4294952838,571010
+,,,Semiconductors,4294952837,57101010
+,,,Semiconductor Equipment & Testing,4294952836,57101020
+,,Communications & Networking,,4294952721,571020
+,,,Communications & Networking,4294952720,57102010
+,,Electronic Equipment & Parts,,4294952713,571040
+,,,Electronic Equipments & Parts,4294952712,57104010
+,,Office Equipment,,4294952715,571050
+,,,Office Equipment,4294952831,57105010
+,,"Computers, Phones & Household Electronics",,4294952719,571060
+,,,Computer Hardware,4294952832,57106010
+,,,Phones & Handheld Devices,4294952717,57106020
+,,,Household Electronics,4294952716,57106030
+,Software & IT Services,,,4294952830,5720
+,,Software & IT Services,,4294952829,572010
+,,,IT Services & Consulting,4294952711,57201010
+,,,Software,4294952827,57201020
+,,,Internet Services,4294952710,57201030
+Telecommunications Services,,,,4294952826,58
+,Telecommunications Services,,,4294952825,5810
+,,Telecommunications Services,,4294952824,581010
+,,,Integrated Telecommunications Services,4294952823,58101010
+,,,Wireless Telecommunications Services,4294952822,58101020
+Utilities,,,,4294952821,59
+,Utilities,,,4294952820,5910
+,,Electric  Utilities  & IPPs,,4294952819,591010
+,,,Utilities - Electric,4294952818,59101010
+,,,Independent Power Producers,4294952709,59101020
+,,Natural Gas Utilities,,4294952817,591020
+,,,Natural Gas Utilities,4294952816,59102010
+,,Water & Related Utilities,,4294952815,591030
+,,,Water Utilities,4294952814,59103010
+,,Multiline Utilities,,4294952813,591040
+,,,Multiline Utilities,4294952812,59104010
