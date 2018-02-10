@@ -62,6 +62,7 @@ def get_data():
 
     #updating healthcare reform for url issues for now
     links_data["Healthcare Reform"]="https://www.reuters.com/sectors/industries/overview?industryCode=151"
+    links_data["Advanced Medical Equipment & Technology"]=links_data.pop("Healthcare Reform")
 
     related_links_data = {}
 

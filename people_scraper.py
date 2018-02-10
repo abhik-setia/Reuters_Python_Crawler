@@ -1,11 +1,14 @@
 import requests
 from bs4 import BeautifulSoup
 import exception_handling
+import time
 
 @exception_handling.retry()
 def scrape_people(url="https://www.reuters.com/finance/stocks/company-officers/",ticker_no="1234"):
 
         #Get Source Code
+    retry_ticker_no=ticker_no
+    try:
         source_code=requests.get(url+ticker_no)
         plain_text=source_code.text
         soup=BeautifulSoup(plain_text,'html.parser')
@@ -54,6 +57,12 @@ def scrape_people(url="https://www.reuters.com/finance/stocks/company-officers/"
 
         data=list(zip(names,age,since,current_position,descriptions))
         return data
+    except :
+        print("Connection Refused....Retrying in 5 secs")
+        time.sleep(5)
+        print("Trying again "+retry_ticker_no)
+        scrape_people(ticker_no=retry_ticker_no)
+
 #example
 #d=scrape_people(ticker_no="ADTR.PK")
 #print(d)
